@@ -1,0 +1,7 @@
+workstation id=DATOSMARZ.mssql.somee.com;
+packet size=4096;
+user id=javierflores2022_SQLLogin_1;
+pwd=wh6ry1xzya;
+data source=DATOSMARZ.mssql.somee.com;
+persist security info=False;
+initial catalog=DATOSMARZ
